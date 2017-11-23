@@ -1,0 +1,1 @@
+This is the code base fro homework 2 in our class operating system NCKU 2017. In this homework I will implement a mailbox application. The goal of this homework is to help us fmailiarize with sysfs file and the linux kernel module programming
