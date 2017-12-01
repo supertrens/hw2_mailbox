@@ -3,6 +3,8 @@
 MODULE_LICENSE("Dual BSD/GPL");
 
 static void get_process_name(char *ouput_name);
+
+//to implement Peter
 static ssize_t mailbox_read(struct kobject *kobj,
                             struct kobj_attribute *attr, char *buf);
 static ssize_t mailbox_write(struct kobject *kobj,

@@ -15,6 +15,7 @@
 #define ERR_EMPTY -1
 #define ERR_FULL -2
 
+//TODA: Implement the mail buffer
 struct mailbox_head_t {
 	/*
 	 * some structure members you define
